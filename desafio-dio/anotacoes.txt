@@ -1,1 +1,20 @@
-Apenas um teste
+Sobre o github:
+
+O github é uma plataforma de hospedagem de codigos, você pode criar repositorios e ali disponilizar ou deixar guardado seus codigos.
+Fazer versionamentos e até contribuir em outros projetos lá disponiveis.
+Para usar a plataforma, você deve criar uma conta.
+
+
+Algumas dicas para o uso do git/github.
+
+Para criar um repositoria novo, você pode acessar este link https://github.com/new
+Após criar o seu repositorio faça um clone dele para a sua máquina (use o git bash)
+Comandos para usar no git bash:
+    git init - inicia o git
+    git clone "+link copiado sem aspas" - (link do repositoria a ser clonado na máquina)
+    git add . - (adicionar modificações de arquivos e/ou arquivos novos ao repositorio)
+    git commit -m "meu primeiro commit" (comentario para os arquivos que serão atualizados no repositorio github)
+    git push origin master (esse comando manda a atualização para o repositorio do github)
+
+
+Para maiores informações, acesse https://docs.github.com/pt/get-started
